@@ -1,0 +1,238 @@
+Erdos: 20.04
+Erdos: 4
+Scale Free: 19.8
+Scale Free: 4
+Removing 0.0% of nodes uniformly
+Removing []
+Graph with 1000 nodes and 10020 edges
+The new diameter for erdos is 2.6374434434434435
+Graph with 1000 nodes and 9900 edges
+The new diameter for scale-free is 2.5616956956956956
+Removing 0.21052631578947367% of nodes uniformly
+Removing [838 148]
+Graph with 998 nodes and 9982 edges
+The new diameter for erdos is 2.63786148023228
+Graph with 998 nodes and 9856 edges
+The new diameter for scale-free is 2.562408668892449
+Removing 0.42105263157894735% of nodes uniformly
+Removing [833 749 412 955]
+Graph with 996 nodes and 9954 edges
+The new diameter for erdos is 2.6377005509475087
+Graph with 996 nodes and 9851 edges
+The new diameter for scale-free is 2.5612681883312143
+Removing 0.631578947368421% of nodes uniformly
+Removing [825 250 755 984 268 541]
+Graph with 994 nodes and 9892 edges
+The new diameter for erdos is 2.639687064988116
+Graph with 994 nodes and 9819 edges
+The new diameter for scale-free is 2.5612223188071024
+Removing 0.8421052631578947% of nodes uniformly
+Removing [403  16 136 143 834 423 568 223]
+Graph with 992 nodes and 9841 edges
+The new diameter for erdos is 2.640905243969923
+Graph with 992 nodes and 9663 edges
+The new diameter for scale-free is 2.569126167767976
+Removing 1.0526315789473684% of nodes uniformly
+Removing [189 264 269 902 899 892 541 103 215 326]
+Graph with 990 nodes and 9849 edges
+The new diameter for erdos is 2.6384696305828763
+Graph with 990 nodes and 9745 edges
+The new diameter for scale-free is 2.5623576513364177
+Removing 1.263157894736842% of nodes uniformly
+Removing [188 253 672 323 821 415 605 526 981 510  36 850]
+Graph with 988 nodes and 9793 edges
+The new diameter for erdos is 2.6401047627251435
+Graph with 988 nodes and 9685 edges
+The new diameter for scale-free is 2.563370373560743
+Removing 1.4736842105263157% of nodes uniformly
+Removing [822 970 262 987 860 163 625 996 111 522 783 550 168 499]
+Graph with 986 nodes and 9742 edges
+The new diameter for erdos is 2.6414431482377654
+Graph with 986 nodes and 9676 edges
+The new diameter for scale-free is 2.5624777339607294
+Removing 1.6842105263157894% of nodes uniformly
+Removing [143 402 784 542  54 608 233  87 512 661 776 963 278 473 362 988]
+Graph with 984 nodes and 9725 edges
+The new diameter for erdos is 2.6406574365845388
+Graph with 984 nodes and 9592 edges
+The new diameter for scale-free is 2.5663577566599676
+Removing 1.8947368421052628% of nodes uniformly
+Removing [ 41 168 721 942 174 857 760 726 498 436 561 932 404 536 678 914 630 971]
+Graph with 982 nodes and 9679 edges
+The new diameter for erdos is 2.641917408355496
+Graph with 982 nodes and 9627 edges
+The new diameter for scale-free is 2.561831623660133
+Removing 2.1052631578947367% of nodes uniformly
+Removing [297 774 581 428 957 180  33 660 727 236 716 597 138 767 108 302 888 593
+  32 746 607]
+Graph with 979 nodes and 9606 edges
+The new diameter for erdos is 2.6432714823147028
+Graph with 979 nodes and 9403 edges
+The new diameter for scale-free is 2.5742201779287326
+Removing 2.3157894736842106% of nodes uniformly
+Removing [879 710 456 338 496 183 265 461 278 681 802 162 730 983 805 720 272 568
+ 878 643 259 563 851]
+Graph with 977 nodes and 9553 edges
+The new diameter for erdos is 2.6448499924492843
+Graph with 977 nodes and 9558 edges
+The new diameter for scale-free is 2.5613894155746095
+Removing 2.526315789473684% of nodes uniformly
+Removing [ 89 909  23 558  70 169 817 720 146 401 280  24 749  88 507 986 389 764
+ 555 132  54 388 731 960 216]
+Graph with 975 nodes and 9464 edges
+The new diameter for erdos is 2.648963302269257
+Graph with 975 nodes and 9266 edges
+The new diameter for scale-free is 2.5783457063128523
+Removing 2.7368421052631575% of nodes uniformly
+Removing [746 561 615 729 485 653 679 701 812 362 895 402 383 962 223 196 278 388
+ 112 308 875 884 980 621 777 868 144]
+Graph with 973 nodes and 9514 edges
+The new diameter for erdos is 2.6438066478034505
+Graph with 973 nodes and 9475 edges
+The new diameter for scale-free is 2.563549160671463
+Removing 2.9473684210526314% of nodes uniformly
+Removing [ 73 422 114 401 760 441 493 979 414 447 901 135  45 769 565 171 933 220
+ 472 626 178 661  82 514 654 838 505  77 744]
+Graph with 971 nodes and 9418 edges
+The new diameter for erdos is 2.647652011424082
+Graph with 971 nodes and 9329 edges
+The new diameter for scale-free is 2.5686241201015
+Removing 3.1578947368421053% of nodes uniformly
+Removing [322 115 555 978 208  70 424 362 326 812 342 685 923 451 939 872 554 429
+  22 945 541 172 443 849 529 854 573   9 465 667 180]
+Graph with 969 nodes and 9398 edges
+The new diameter for erdos is 2.647193153033288
+Graph with 969 nodes and 9297 edges
+The new diameter for scale-free is 2.5710070021919162
+Removing 3.3684210526315788% of nodes uniformly
+Removing [878 846  72 974 402  20 831  93 455 630 328 272 121 196 510 163  67 686
+ 100 475 726 255 200   4 672 312 129  85 885 169 799 376 302]
+Graph with 967 nodes and 9400 edges
+The new diameter for erdos is 2.6454274709299215
+Graph with 967 nodes and 9132 edges
+The new diameter for scale-free is 2.5816349470411786
+Removing 3.578947368421052% of nodes uniformly
+Removing [650 793 996 549 749 660 126 251 306 509 123 900 444 890 235 601 261 352
+ 597 379 440 117  87 785 706 590 966 533 241 547 303 735 845 663 799]
+Graph with 965 nodes and 9305 edges
+The new diameter for erdos is 2.648971255347967
+Graph with 965 nodes and 9363 edges
+The new diameter for scale-free is 2.562541655021177
+Removing 3.7894736842105257% of nodes uniformly
+Removing [111 656 843 326 384 248 423 543 930  44 318 335 380 532 833 280 824 302
+ 163 800  64 812 293 967 375 860 518 735 663 439 272 991 571 772 410 305
+ 400]
+Graph with 963 nodes and 9293 edges
+The new diameter for erdos is 2.6481996014706297
+Graph with 963 nodes and 9262 edges
+The new diameter for scale-free is 2.566002379086491
+Removing 4.0% of nodes uniformly
+Removing [392 482 968 795 304 473 582 960  19 464 890 692 535 633  96   1 531 220
+ 548 798 292  20 827 587 342  33 581 725 997 281  30 874  90 787 753 676
+ 418 191 241 291]
+Graph with 960 nodes and 9258 edges
+The new diameter for erdos is 2.64761687521724
+Graph with 960 nodes and 8958 edges
+The new diameter for scale-free is 2.587019899200556
+[2.6374434434434435, 2.63786148023228, 2.6377005509475087, 2.639687064988116, 2.640905243969923, 2.6384696305828763, 2.6401047627251435, 2.6414431482377654, 2.6406574365845388, 2.641917408355496, 2.6432714823147028, 2.6448499924492843, 2.648963302269257, 2.6438066478034505, 2.647652011424082, 2.647193153033288, 2.6454274709299215, 2.648971255347967, 2.6481996014706297, 2.64761687521724]
+[2.5616956956956956, 2.562408668892449, 2.5612681883312143, 2.5612223188071024, 2.569126167767976, 2.5623576513364177, 2.563370373560743, 2.5624777339607294, 2.5663577566599676, 2.561831623660133, 2.5742201779287326, 2.5613894155746095, 2.5783457063128523, 2.563549160671463, 2.5686241201015, 2.5710070021919162, 2.5816349470411786, 2.562541655021177, 2.566002379086491, 2.587019899200556]
+Attacking 0.0% of nodes uniformly
+Graph with 1000 nodes and 10020 edges
+The new diameter for erdos is 2.6374434434434435
+Graph with 1000 nodes and 9900 edges
+The new diameter for scale-free is 2.5616956956956956
+Attacking 0.21052631578947367% of nodes uniformly
+Graph with 998 nodes and 9981 edges
+The new diameter for erdos is 2.6379358516431055
+Graph with 998 nodes and 9589 edges
+The new diameter for scale-free is 2.584484917678888
+Attacking 0.42105263157894735% of nodes uniformly
+Graph with 996 nodes and 9937 edges
+The new diameter for erdos is 2.6387419022824967
+Graph with 996 nodes and 9322 edges
+The new diameter for scale-free is 2.60449839559242
+Attacking 0.631578947368421% of nodes uniformly
+Graph with 994 nodes and 9901 edges
+The new diameter for erdos is 2.6390710830947417
+Graph with 994 nodes and 9084 edges
+The new diameter for scale-free is 2.6214061812972496
+Attacking 0.8421052631578947% of nodes uniformly
+Graph with 992 nodes and 9855 edges
+The new diameter for erdos is 2.6400548484749846
+Graph with 992 nodes and 8863 edges
+The new diameter for scale-free is 2.637743725790176
+Attacking 1.0526315789473684% of nodes uniformly
+Graph with 990 nodes and 9801 edges
+The new diameter for erdos is 2.641762416888807
+Graph with 990 nodes and 8666 edges
+The new diameter for scale-free is 2.6526478128095925
+Attacking 1.263157894736842% of nodes uniformly
+Graph with 988 nodes and 9776 edges
+The new diameter for erdos is 2.6412020230609254
+Graph with 988 nodes and 8484 edges
+The new diameter for scale-free is 2.6655140305756206
+Attacking 1.4736842105263157% of nodes uniformly
+Graph with 986 nodes and 9748 edges
+The new diameter for erdos is 2.640967452971036
+Graph with 986 nodes and 8309 edges
+The new diameter for scale-free is 2.6788418570648984
+Attacking 1.6842105263157894% of nodes uniformly
+Graph with 984 nodes and 9674 edges
+The new diameter for erdos is 2.6438127021148135
+Graph with 984 nodes and 8145 edges
+The new diameter for scale-free is 2.6916420613850085
+Attacking 1.8947368421052628% of nodes uniformly
+Graph with 982 nodes and 9672 edges
+The new diameter for erdos is 2.641909103931937
+Graph with 982 nodes and 7991 edges
+The new diameter for scale-free is 2.7041320735522794
+Attacking 2.1052631578947367% of nodes uniformly
+Graph with 979 nodes and 9603 edges
+The new diameter for erdos is 2.6436140546569993
+Graph with 979 nodes and 7784 edges
+The new diameter for scale-free is 2.7204693241089464
+Attacking 2.3157894736842106% of nodes uniformly
+Graph with 977 nodes and 9552 edges
+The new diameter for erdos is 2.6449548634998408
+Graph with 977 nodes and 7649 edges
+The new diameter for scale-free is 2.7319076463580383
+Attacking 2.526315789473684% of nodes uniformly
+Graph with 975 nodes and 9520 edges
+The new diameter for erdos is 2.6446627704943926
+Graph with 975 nodes and 7512 edges
+The new diameter for scale-free is 2.7456304954456905
+Attacking 2.7368421052631575% of nodes uniformly
+Graph with 973 nodes and 9467 edges
+The new diameter for erdos is 2.6463591031936358
+Graph with 973 nodes and 7387 edges
+The new diameter for scale-free is 2.7562140763579612
+Attacking 2.9473684210526314% of nodes uniformly
+Graph with 971 nodes and 9425 edges
+The new diameter for erdos is 2.6471381400830265
+Graph with 971 nodes and 7274 edges
+The new diameter for scale-free is 2.766475203584359
+Attacking 3.1578947368421053% of nodes uniformly
+Graph with 969 nodes and 9396 edges
+The new diameter for erdos is 2.647348804680637
+Graph with 969 nodes and 7159 edges
+The new diameter for scale-free is 2.776360565974976
+Attacking 3.3684210526315788% of nodes uniformly
+Graph with 967 nodes and 9378 edges
+The new diameter for erdos is 2.6465643673952655
+Graph with 967 nodes and 7049 edges
+The new diameter for scale-free is 2.7856703942311603
+Attacking 3.578947368421052% of nodes uniformly
+Graph with 965 nodes and 9314 edges
+The new diameter for erdos is 2.6484703201255564
+Graph with 965 nodes and 6946 edges
+The new diameter for scale-free is 2.796162363210285
+Attacking 3.7894736842105257% of nodes uniformly
+Graph with 963 nodes and 9282 edges
+The new diameter for erdos is 2.648903396566948
+Graph with 963 nodes and 6837 edges
+The new diameter for scale-free is 2.8078142844497984
+Attacking 4.0% of nodes uniformly
+Graph with 960 nodes and 9223 edges
+The new diameter for erdos is 2.6495915884602015
+Graph with 960 nodes and 6683 edges
+The new diameter for scale-free is 2.8248740006951687
