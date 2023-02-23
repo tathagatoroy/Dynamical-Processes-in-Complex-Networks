@@ -79,7 +79,7 @@ for f in np.linspace(0, 0.04, 20):
 
 
 fig, (ax1, ax2) = plt.subplots(2, 1)
-fig, ax1 = plt.subplots()
+
 ax1.scatter(np.linspace(0, 0.04, 20), err_erdos_dia, color="orange", label="erdos", marker = "^")
 ax1.scatter(np.linspace(0, 0.04, 20), err_sf_dia, color="blue", label="scale-free", marker="o")
 ax1.set_title("Error tolerance")
